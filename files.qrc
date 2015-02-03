@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file>battleship.jpg</file>
+        <file>title.png</file>
+        <file>battle.jpg</file>
+        <file>board.jpg</file>
+        <file>rules.jpg</file>
+        <file>brownboard.jpg</file>
+        <file>water.jpg</file>
+        <file>login.png</file>
+        <file>registerbat.png</file>
+        <file>battleLogo.png</file>
+        <file>battleship-6.jpg</file>
+    </qresource>
+</RCC>
